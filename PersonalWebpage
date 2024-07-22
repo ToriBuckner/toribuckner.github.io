@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tori Buckner - Professional Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header, section {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #eee;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tori Buckner, MBA</h1>
+        <p>Empowering Growth through Innovative Talent Development | Instructional Design Expert | Building Future Leaders</p>
+    </header>
+
+    <section>
+        <h2>Contact Information</h2>
+        <p>Email: tor.unlimited@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/toribuckner">linkedin.com/in/toribuckner</a></p>
+        <p>Location: Fort Worth, Texas, United States</p>
+    </section>
+
+    <section>
+        <h2>Summary</h2>
+        <p>Senior Human Resources Talent Acquisition Partner with over 10 years of experience in software systems implementations, recruiting, sourcing, project management, process improvement, and client management. Skilled in developing and implementing talent acquisition strategies to meet business objectives, managing full-cycle recruitment processes, building, and maintaining strong relationships with stakeholders and improving hiring processes to increase efficiency and quality.</p>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <h3>Frontier Communications</h3>
+        <p><strong>Senior Talent Development Instructional Designer, Human Resources</strong> (May 2024 - Present | Dallas-Fort Worth Metroplex)</p>
+        <ul>
+            <li>I specialize in designing dynamic and impactful learning experiences tailored to diverse learner needs. My expertise spans the entire instructional design process, including needs analysis, content development, implementation, and evaluation. I create and deliver top-tier training programs that significantly boost knowledge retention and skill development by leveraging various instructional methodologies and technologies.</li>
+        </ul>
+
+        <h3>Senior HR Talent Strategy Advisor</h3>
+        <p>(July 2022 - May 2024 | Dallas-Fort Worth Metroplex)</p>
+        <ul>
+            <li>Managed full-cycle recruitment processes for various technical, professional, and managerial positions.</li>
+            <li>Implemented new HRIS systems, including system configuration, data migration, and user training.</li>
+            <li>Collaborated with hiring managers to develop and implement talent acquisition strategies that align with business objectives.</li>
+            <li>Systems used: Jobvite, Eightfold, Microsoft Teams, LinkedIn, Microsoft Office, Sterling Background Check, Monday Recruiting Tool, Docusign.</li>
+        </ul>
+
+        <h3>Johnson Controls</h3>
+        <p><strong>Human Resources Recruiter</strong> (July 2021 - July 2022 | Dallas-Fort Worth Metroplex)</p>
+        <ul>
+            <li>Utilized various sourcing channels to identify top talent, including job boards, social media, networking events, and employee referrals.</li>
+            <li>Conducted interviews and assessments to evaluate candidates' skills, experience, and cultural fit.</li>
+            <li>Maintained strong relationships with hiring managers and candidates to ensure a positive candidate experience.</li>
+            <li>Partnered with HR colleagues to onboard new hires and support hiring managers and employees.</li>
+            <li>Systems used: Workday, Google Sheets, Google Docs, Indeed, LinkedIn, Oracle HCM.</li>
+        </ul>
+
+        <h3>Brink’s Inc</h3>
+        <p><strong>Human Resources Recruitment Coordinator</strong> (June 2019 - August 2021 | Coppell, Texas)</p>
+        <ul>
+            <li>Developed and maintained recruitment metrics to measure the talent acquisition function's effectiveness and identify improvement areas.</li>
+            <li>Managed HR operations for a 200-employee organization, including recruitment, onboarding, performance management, and employee relations.</li>
+            <li>Trained employees on systems and processes.</li>
+            <li>Systems used: Workday, PeopleSoft, PeopleFluent, Indeed Recruiter, LinkedIn Networking, HireRight Background Screening.</li>
+        </ul>
+
+        <h3>Midland Memorial Hospital</h3>
+        <p><strong>Patient Access Supervisor</strong> (April 2016 - April 2018 | Midland, Texas)</p>
+        <ul>
+            <li>Developed and implemented policies and procedures related to patient access services, including patient registration, insurance verification, and appointment scheduling.</li>
+            <li>Collaborated with other departments in the healthcare facility, such as billing and coding, to ensure that patient access services are coordinated and efficient.</li>
+            <li>Oversaw and supervised a direct staff of 25+ employees, completing payroll and performance management conversations.</li>
+            <li>Systems used: McKesson, ADP, Cerner, Microsoft Office.</li>
+        </ul>
+
+        <h3>Gulf Coast Western</h3>
+        <p><strong>Regional Human Resources Manager</strong> (March 2012 - March 2016 | Odessa, Texas)</p>
+        <ul>
+            <li>Developed and implemented HR policies and procedures to ensure compliance with legal requirements and best practices.</li>
+            <li>Implemented new HRIS systems, including system configuration, data migration, and user training.</li>
+            <li>Managed vendor relationships and negotiated contracts to ensure cost-effective HR services.</li>
+            <li>Systems used: Quickbooks, Excel, Oracle/Peoplesoft, Google Docs/Sheets, Microsoft Office.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <h3>Tarrant County College</h3>
+        <p><strong>Instructional Design, Instruction, Training Management Certification</strong></p>
+        <p>Educational, Instructional, and Curriculum Supervision (May 2024 - November 2024)</p>
+
+        <h3>Capella University</h3>
+        <p><strong>Master of Business Administration - MBA</strong></p>
+        <p>Human Resources Management and Services (May 2020 - April 2022)</p>
+
+        <h3>LSU Shreveport</h3>
+        <p><strong>Master of Business Administration - MBA</strong></p>
+        <p>Human Resources Management and Services (2019 - 2020)</p>
+
+        <h3>LSU Shreveport</h3>
+        <p><strong>Bachelor of Applied Science</strong></p>
+        <p>Accounting and Business/Management (2016 - 2018)</p>
+
+        <h3>Louisiana Technical and Community College</h3>
+        <p><strong>Associate of Arts and Sciences (AAS)</strong></p>
+        <p>Business Administration and Management, General (2008 - 2010)</p>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <ul>
+            <li>Safety Instructor</li>
+            <li>Learn with Workday</li>
+            <li>Professional Certificate in Digital Marketing</li>
+            <li>Masterclass DEI Remix - Refreshing Your Diversity, Equity, and Inclusion Approach</li>
+            <li>Employee Relations and Engagement Certification</li>
+            <li>Certified Career Development Coach</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Performance Management</li>
+            <li>Business Analysis</li>
+            <li>Talent Development</li>
+            <li>Instructional Design</li>
+            <li>Training Program Management</li>
+            <li>Curr
